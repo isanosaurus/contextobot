@@ -1,0 +1,6 @@
+nextcord
+aiohttp
+html2image
+google-genai
+requests
+beautifulsoup4

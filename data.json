@@ -1,0 +1,14 @@
+{
+    "datastructure": {
+        "gameId": 1,
+        "channelId": 123456789,
+        "lastMessageId": 12345789,
+        "guesses": [
+            {
+                "word": "word",
+                "distance": 3,
+                "userId": 123456789
+            }
+        ]
+    }
+}
